@@ -12,7 +12,7 @@ Currently studying at the University of Leicester, on track to graduate with fir
 ## 🚀 Featured Projects
 
 - [**Fitness Related Calculators**](https://github.com/DevAfi/Fitness-Related-Calculators): A collection of calculators for health, training, and nutritional metrics, built to help users understand and optimize their fitness journey.
-- [**Bank Website (Iron-Ledger)**](https://github.com/DevAfi/Iron-Ledger): A modern banking web application designed to simulate real-world financial interactions and data management.
+- [**Bank Website**](https://github.com/DevAfi/Banking_website): A modern banking web application designed to simulate real-world financial interactions and data management.
 - [**Workout App Test**](https://github.com/DevAfi/WorkoutTrackerTest): A workout tracking app prototype focused on usability, performance, and meaningful data visualization for fitness enthusiasts.
 
 ## 📚 About Me

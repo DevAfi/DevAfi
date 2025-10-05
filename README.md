@@ -30,15 +30,16 @@ Final-year student at the University of Leicester (on track for first-class hono
 
 - [**Fitness Related Calculators**](https://github.com/DevAfi/Fitness-Related-Calculators): Interactive Python-based calculators for BMI, TDEE, macro tracking, and training metrics—helping users make data-driven fitness decisions with accurate, science-backed formulas.
 
-- [**Bank Website**](https://github.com/DevAfi/Banking_website): A modern banking web application built with React and TypeScript, simulating real-world financial interactions including transactions, account management, and data visualization.
+- [**Finance Tracking Website**](https://github.com/DevAfi/FinancePal): A modern finance web application built with HTML, CSS and JavaScript, simulating real-world financial interactions including transactions, account management, and data visualization.
 
-- [**Workout App Test**](https://github.com/DevAfi/WorkoutTrackerTest): A workout tracking app prototype featuring intuitive UI/UX design, performance analytics, and meaningful data visualization to help fitness enthusiasts monitor their progress.
+- [**Workout App**](https://github.com/DevAfi/WorkoutTrackerTest): A workout tracking app prototype featuring intuitive UI/UX design, performance analytics, and meaningful data visualization to help fitness enthusiasts monitor their progress.
 
 ## 🔭 Currently Working On
 
 - Expanding my data science portfolio with machine learning projects
 - Building more interactive web applications with React and TypeScript
 - Deepening my knowledge in statistical analysis and predictive modeling
+- A new web application where users can connect with their friends to keep track of habits, improving and visualising their progress
 
 ## 📚 About Me
 

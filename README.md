@@ -1,7 +1,7 @@
 # Hi, I'm DevAfi 👋
 
-🎓 **Data Analytics Student | Building Tools That Make Sense of Numbers**  
-Final-year student at the University of Leicester (on track for first-class honors), combining data science with practical development to create meaningful applications. From fitness calculators to banking simulations, I build projects that solve real problems.
+🎓 **Computer Science Student | Building Tools That Make Sense of Numbers**  
+Second-year student at the University of Leicester (on track for first-class honors), combining data science with practical development to create meaningful applications. From fitness calculators to banking simulations, I build projects that solve real problems.
 
 ## 💻 Tech Stack
 

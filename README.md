@@ -39,7 +39,7 @@ Second-year student at the University of Leicester (on track for first-class hon
 - Expanding my data science portfolio with machine learning projects
 - Building more interactive web applications with React and TypeScript
 - Deepening my knowledge in statistical analysis and predictive modeling
-- A new web application where users can connect with their friends to keep track of habits, improving and visualising their progress
+- A new phone application which allows students to visualise assignment deadlines and advanced statistics about their grade
 
 ## 📚 About Me
 

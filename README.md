@@ -70,6 +70,8 @@ I'm actively seeking **internships and graduate positions** in:
 
 ## 📈 GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAfi&theme=tokyonight)
+
 ![DevAfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevAfi&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevAfi&theme=radical&hide_border=true)
